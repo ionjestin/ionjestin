@@ -1,4 +1,4 @@
-# Hi there I'm Ion Jestin Paul 👋
+# Hi there I'm Ion Jestin 👋
 :computer: I work as a Data and Cloud Engineer <br>
 📧 Reach out via email at ionjestin@gmail.com 
 
