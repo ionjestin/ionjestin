@@ -1,16 +1,13 @@
-## Hi there I'm Ion Jestin Paul 👋
+# Hi there I'm Ion Jestin Paul 👋
+# :computer: I work as a Data and Cloud Engineer <br>
+📧 Reach out via email at ionjestin@gmail.com 
 
-<!--
-**ionjestin/ionjestin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn][1.2]][1] 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[1.2]: https://i.imgur.com/6imiIfl.png
+
+
+[1]: https://www.linkedin.com/in/ionjestin
+
+
